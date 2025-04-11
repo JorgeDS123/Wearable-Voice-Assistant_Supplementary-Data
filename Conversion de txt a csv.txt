@@ -1,0 +1,5 @@
+Para utilizar las muestras de manera correcta en Edge Impulse, es necesario que las muestras estén en formato .csv y que el archivo de cada muestra contenga un encabezado con la palabra "timestamp" para el vector del tiempo.
+Edge Impulse facilita el proceso de etiquetado de las muestras. Si aplica, se considera la primera palabra antes de un "." como la clase a la que pertenece la muestra.
+
+Se utilizó el código del siguiente notebook de google colab para dar el formato adecuado a las muestras del conjunto de datos:
+https://colab.research.google.com/drive/1Zq313aqYf2ILE09YjkWAF8G2TRGL399Z?usp=sharing

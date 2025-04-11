@@ -1,0 +1,2 @@
+El conjunto de datos utilizado para entrenar el modelo de clasificación se puede acceder en la siguiente carpeta de google drive:
+https://drive.google.com/drive/folders/1Mlv1CTYBH0UVDZzHbuak0GDgEClcvL0b?usp=sharing
