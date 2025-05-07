@@ -30,10 +30,10 @@ end
 
 switch op
     case 1
-        % Ejecutar experimento con red neural simulada
+        % Ejecutar calibración
         calibracion;
     case 2
-        % Ejecutar experimento con registro de señal EEG
+        % Iniciar registros
         registros(datos, folderName);
     case 3
         % Finalizar sesión
