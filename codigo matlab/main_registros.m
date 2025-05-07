@@ -42,6 +42,3 @@ end
 
 end
 
-%Guardar registro
-%writematrix(M)
-%type 'M.txt'
